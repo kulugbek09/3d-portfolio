@@ -72,11 +72,11 @@ export const skills = [
     //     name: "Material-UI",
     //     type: "Frontend",
     // },
-    // {
-    //     imageUrl: nextjs,
-    //     name: "Next.js",
-    //     type: "Frontend",
-    // },
+    {
+        imageUrl: nextjs,
+        name: "Next.js",
+        type: "Frontend",
+    },
     {
         imageUrl: nodejs,
         name: "Node.js",
@@ -87,11 +87,11 @@ export const skills = [
         name: "React",
         type: "Frontend",
     },
-    // {
-    //     imageUrl: redux,
-    //     name: "Redux",
-    //     type: "State Management",
-    // },
+    {
+        imageUrl: redux,
+        name: "Redux",
+        type: "State Management",
+    },
     // {
     //     imageUrl: sass,
     //     name: "Sass",
@@ -102,11 +102,11 @@ export const skills = [
         name: "Tailwind CSS",
         type: "Frontend",
     },
-    // {
-    //     imageUrl: typescript,
-    //     name: "TypeScript",
-    //     type: "Frontend",
-    // }
+    {
+        imageUrl: typescript,
+        name: "TypeScript",
+        type: "Frontend",
+    }
 ];
 
 export const experiences = [
